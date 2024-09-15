@@ -8,7 +8,7 @@
 
 ## 📖 Project Overview
 
-This project is a **full-stack web application** developed using **React** for the frontend and **Django** for the backend. The application has several key features, including a login page, a chatbot page displaying fruit details, a language translator, an FAQ section with CRUD functionality, and an about page. The application is responsive and mobile-friendly.
+This project is a **full-stack web application** developed using **React** for the frontend and **Flask** for the backend. The application has several key features, including a login page, a chatbot page displaying fruit details, a language translator, an FAQ section with CRUD functionality, and an about page. The application is responsive and mobile-friendly.
 
 ### 🚀 Live Demo
 
@@ -31,7 +31,7 @@ This project is a **full-stack web application** developed using **React** for t
 ## 🌟 Frontend Features
 
 1. **Login Page**:
-   - A simple UI for login with a dummy user ID (`admin@gmail.com`) and password (`secret123`).
+   - A simple UI for login with a dummy user ID (`admin`) and password (`password123`).
    - On successful login, redirects to the homepage.
    
 2. **Home Page**:
@@ -61,7 +61,7 @@ This project is a **full-stack web application** developed using **React** for t
 
 ## 🔥 Backend Features
 
-- **Framework**: Django
+- **Framework**: Flask
 - Provides a Fast API to manage FAQs with basic CRUD operations.
   
 ### CRUD Functionality:
@@ -72,3 +72,10 @@ This project is a **full-stack web application** developed using **React** for t
 - **DELETE api/faqs/:id**: Delete a specific FAQ.
 
 ---
+Screen Shots
+- **Login Page**![Screenshot 2024-09-16 012818](https://github.com/user-attachments/assets/2896e85a-f8d8-4224-97bb-30c7072bfa3e)
+- **Home Page**![Screenshot 2024-09-16 013119](https://github.com/user-attachments/assets/a0301c15-ad80-4bc2-b665-c4b4d6508349)
+- **Chat Bot**![Screenshot 2024-09-16 013658](https://github.com/user-attachments/assets/bd4f9458-0acf-4dbd-b0e5-9a0b43616afa)
+- **Translate**![Screenshot 2024-09-16 014006](https://github.com/user-attachments/assets/f694efa5-0659-4a38-ad8c-cf3a7692428d)
+
+- **About**![Screenshot 2024-09-16 014045](https://github.com/user-attachments/assets/805d2b1c-dc38-4387-ae35-f0529d41170e)
